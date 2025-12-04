@@ -1,0 +1,13 @@
+git clone <https://github.com/carlianero17/Study.git>
+cd cw-academy
+
+# Criar ambiente virtual
+python -m venv venv
+
+# Ativar ambiente virtual
+# No Windows:
+venv\Scripts\activate
+
+cd agent-memory
+pip install -r requirements.txt
+
